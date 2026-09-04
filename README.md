@@ -3,50 +3,22 @@
 ## Course Structure
 
 ### Chapter 1: Introduction to Personal Finance
-* **Lesson 1**
-  * Video
-  * Textbook
-  * Activity: Suzanne's Candy Craze
-* **Lesson 2**
-  * Video
-  * Textbook
-  * Activity: History of Credit in America
-* **Lesson 3**
-  * Video
-  * Textbook
-  * Activity: Rolling the Dice and Taking Chances
-* **Lesson 4**
-  * Video
-  * Textbook
-  * Activity: Calculating Your Net Worth
-* **Lesson 5**
-  * Video
-  * Textbook
-  * Activity: The Five Foundations
-* **Lesson 6**
-  * Video
-  * Textbook
+
+| Section | Link |
+| ------- | ---- |
+| Lesson 1 | [Guided Notes & Reflection](answers/chapter-01-lesson-01.md) |
+| Lesson 2 | [Guided Notes](answers/chapter-01-lesson-02.md) |
+| Lesson 3 | [Guided Notes](answers/chapter-01-lesson-03.md) |
+| Lesson 4 | [Guided Notes](answers/chapter-01-lesson-04.md) |
+| Lesson 5 | [Guided Notes](answers/chapter-01-lesson-05.md) |
+| Lesson 6 | [Guided Notes](answers/chapter-01-lesson-06.md) |
+| Review & Vocabulary | [Chapter 1 Review](answers/chapter-01-review-vocabulary.md) |
+| Chapter Test | [Chapter 1 Test](answers/chapter-01-test.md) |
 
 ### Chapter 12: Investing and Retirement
-* **Lesson 1**
-  * Video
-  * Textbook
-  * Activity: Wealth Building Is Not a Game of Chance
-* **Lesson 2**
-  * Video
-  * Textbook
-  * Activity: Comparing Investment Types
-* **Lesson 3**
-  * Video
-  * Textbook
-  * Activity: Funding 401(k)s and Roth IRAs
-* **Lesson 4**
-  * Video
-  * Textbook
-  * Activity: Diversify Your Investments
-* **Lesson 5**
-  * Video
-  * Textbook
-  * Activity: Activity
-* **Lesson 6**
-  * Video
+
+| Section | Link |
+| ------- | ---- |
+| Lesson 1 | [Guided Notes](answers/chapter-12-lesson-01.md) |
+| Lesson 2 | [Guided Notes](answers/chapter-12-lesson-02.md) |
+| Lesson 3 | [Guided Notes](answers/chapter-12-lesson-03.md) |
