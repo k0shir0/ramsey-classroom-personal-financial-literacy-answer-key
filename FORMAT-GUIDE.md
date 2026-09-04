@@ -7,18 +7,53 @@ Follow this exact structure whenever a new chapter or lesson is added, now or in
 - Chapter review/vocabulary: `answers/chapter-{CC}-review-vocabulary.md`
 - Chapter test: `answers/chapter-{CC}-test.md`
 
+## Lesson components
+
+Each lesson is split into up to three components, listed in this order:
+
+1. **Video (Guided Notes)** — Fill-in-the-blank answers from the lesson video. Each answer is wrapped in **bold** to mark it as the fill-in.
+2. **Textbook** — Long-answer questions sourced from the textbook. **Skipped by default** and only included when the source payload explicitly provides textbook content.
+3. **Activity** — Everything else from the lesson that is not explicitly labeled "Guided Notes". Activities have dynamic titles (e.g. "Suzanne's Candy Craze", "Comparing Investment Types"). Match the exact Activity heading name defined in the `README.md` course hierarchy.
+
+If the exact placement, section title, or file naming convention of an activity is ambiguous, **stop and ask for clarification** before writing or committing files.
+
 ## Lesson file template
+
 ```markdown
 # Chapter {C}, Lesson {L}
 
 ## Guided Notes
-1. <sentence with **bolded fill-in-the-blank answer**>
+- <sentence with **bolded fill-in-the-blank answer**>
 
-## Analyze and Reflect   <!-- omit this whole section if the lesson has none -->
+<!-- Textbook section: omit unless explicitly provided in the source payload -->
 
-**Q1. <question text>**
+## Activity: <Activity Title>
 
-A: <answer text — copied exactly as given>
+<activity content — bullet lists, tables, sub-headings as needed>
+```
+
+### Examples of each component
+
+**Guided Notes (Video):**
+```markdown
+## Guided Notes
+- Target investing 15% of your income toward **retirement**.
+- The investing process resembles a **marathon**, not a sprint.
+```
+
+**Activity (dynamic title):**
+```markdown
+## Activity: Comparing Investment Types
+
+| Investment Type | Risk Level | Return Level | Key Advantages | Key Disadvantages |
+| :--- | :--- | :--- | :--- | :--- |
+| **Money Market Account** | Low | Low | **Low risk** | **Doesn't earn much money** |
+```
+
+**Textbook (only when provided):**
+```markdown
+## Textbook
+- <long-answer response in bold or as plain text, per source>
 ```
 
 ## Review / Vocabulary file template
